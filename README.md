@@ -1,6 +1,6 @@
 # E-Voting & Election Result Management System (C Project)
 
-## 📌 Overview
+##  Overview
 This project is a **C-based Electronic Voting System** created for university/college academic use. It simulates a secure voting environment using structures, arrays, dynamic memory, file handling, and control logic.
 
 The system ensures:
@@ -12,7 +12,7 @@ The system ensures:
 
 ---
 
-## 🎯 Features
+##  Features
 - Register voters (ID, Name)
 - Register candidates (ID, Name, Party)
 - Cast secure votes
@@ -24,7 +24,7 @@ The system ensures:
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 - **C Programming Language**
 - Concepts Used:
   - Structures
@@ -37,12 +37,12 @@ The system ensures:
 
 ---
 
-## 📁 File Structure
+## File Structure
 
 
-📦 Evoting-System
-┣ 📜 main.c
-┣ 📜 evoting.c
-┣ 📜 evoting.h
-┣ 📜 Election_Results.txt (auto-generated)
-┗ 📜 README.md
+ Evoting-System
+┣ main.c
+┣ evoting.c
+┣ evoting.h
+┣ Election_Results.txt (auto-generated)
+┗ README.md
